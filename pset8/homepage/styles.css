@@ -1,0 +1,46 @@
+body {
+    background: #ffffff;
+    color: #000000;
+}
+
+button {
+    cursor: pointer;
+    top: 13px;
+    right: 13px;
+}
+
+.dark-mode {
+    background: #212121;
+    color: #ffffff;
+}
+
+.center {
+    text-align: center;
+}
+
+.button {
+    margin: 10px 10px;
+}
+
+.about_image {
+    margin: 40px;
+}
+
+.container {
+    position: absolute;
+    display: inline-flex;
+    margin-top: 100px;
+}
+
+.favorites_image {
+    max-width: 25%;
+    height: auto;
+    float: left;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.contact_image {
+    margin: 50px;
+}
